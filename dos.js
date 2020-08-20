@@ -74,6 +74,6 @@ c)la marca del más liviano de los sólidos
     console.log("No se ingresaron Solidos");
   }
   else {
-    console.log("el mas liviano de los solido es " + marcaLivianoSolido + " y pesa " + pesoLivianoSolido + " kg");
+    console.log("La Marca del mas liviano de los solido es " + marcaLivianoSolido + " y pesa " + pesoLivianoSolido + " kg");
   }
 }
